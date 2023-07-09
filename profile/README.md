@@ -1,13 +1,16 @@
 # Java User Group Philippines (JUG PH)
 
 Repository of JUG PH initiatives
-<!--
 
-**Here are some ideas to get you started:**
+<p align="center">
+  <img src="/profile/images/jugph.png" alt="JUG PH Banner">
+</p>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Socials
+* [Meetup](https://www.meetup.com/java-user-group-ph)
+* [Facebook](https://www.facebook.com/groups/jugph)
+* [Twitter](https://twitter.com/jugphilippines)
+
+🔗 Link of the meetup presentations: [JUG PH Presentations](https://github.com/JUGPH/java-presentations)
+
+❓ Any questions to the team? Email us at <info@jugph.com> or chat us in our Facebook group
