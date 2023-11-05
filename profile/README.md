@@ -49,12 +49,34 @@ JUG PH has several social media channels and preparations to execute its initiat
 ### Social Media
 Here's a list of JUG PH’s social accounts:
 
-- **Meetup**: [Java User Group Philippines | Meetup](#)
-- **Facebook**: [Java User Group Philippines | Facebook](#)
-- **Website**: [JUGPH Official Website](#) *(pending rework)*
-- **Twitter**: [@jugphilippines](#)
-- **LinkedIn**: [linkedin.com/company/jugph](#)
-- **GitHub**: [Java User Group PH](#)
+- **Meetup**: [Java User Group Philippines | Meetup](https://www.meetup.com/java-user-group-ph/)
+- **Facebook**: [Java User Group Philippines | Facebook](https://www.facebook.com/groups/jugph)
+- **Website**: [JUGPH Official Website](https://jugph.divroll.com/) *(pending rework)*
+- **Twitter**: [@jugphilippines](https://twitter.com/jugphilippines)
+- **LinkedIn**: [linkedin.com/company/jugph](https://www.linkedin.com/company/96315234/admin/feed/posts/)
+- **GitHub**: [Java User Group PH](https://github.com/JUGPH)
+
+## Sponsorship
+The JUG PH meetups were executed together with the help of current sponsors. These sponsorships cover the food, merchandise, and venue. 
+| Organization Name            | Organization Page                                      | Contributions                                     | Start Month and Year | Status |
+|------------------------------|--------------------------------------------------------|---------------------------------------------------|----------------------|--------|
+| Java User Group Philippines  | [JUGPH Official Website](https://jugph.divroll.com/)                            | Tristan Mahinay’s Contribution: Meetup Website, Google Drive Storage<br>Kerby Martino’s Contribution: JUG PH Website, Email Domain | April 2023           | ACTIVE |
+| Azul Systems                 | [Home](http://azul.com/)                                              | Food and Beverage<br>Merchandises (Stickers and Shirts) | April 2023           | ACTIVE |
+| Orange and Bronze Software Labs | [Homepage](https://www.orangeandbronze.com/)                                        | Venue<br>Logistics for In-person meetup<br>Zoom<br>Training Room<br>Peripherals | April 2023           | ACTIVE |
+| JetBrains                    | [JetBrains: Developer Tools for Professionals and Teams](https://www.jetbrains.com/) | Ultimate Licenses for 1 year                       | April 2023           | ACTIVE |
+| ING Hub Philippines          | [ING Wholesale Banking • ING](https://www.ingwb.com/)                       | Food<br>Venue                                       | Sept 2023            | ACTIVE |
+| Incub8 Space                 | [Incub8 Space](https://incub8space.com/)                                      | TBD                                                 |                      |        |
+
+## Partners 
+The JUG PH partners with other tech communities or companies that help us to achieve our mission and for promotions as well.
+| Organization Name              | Status |
+|--------------------------------|--------|
+| Edukasyon.ph AWS Siklab        |        |
+| StackLeague                    | ACTIVE |
+| Samsung R&D Philippines        | ACTIVE |
+| Microsoft Philippines          |        |
+| Styava                        | ACTIVE |
+
 
 🔗 Link of the meetup presentations: [JUG PH Presentations](https://github.com/JUGPH/java-presentations)
 
