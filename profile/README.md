@@ -6,6 +6,23 @@ Repository of JUG PH initiatives
   <img src="/profile/images/jugph.png" alt="JUG PH Banner">
 </p>
 
+<!-- TOC -->
+* [Java User Group Philippines (JUG PH)](#java-user-group-philippines-jug-ph)
+  * [Purpose](#purpose)
+  * [Vision and Mission](#vision-and-mission)
+    * [Vision](#vision)
+    * [Mission](#mission)
+    * [Objectives](#objectives)
+  * [JUG PH Community Leaders](#jug-ph-community-leaders)
+    * [Current JUG Leaders and Volunteers](#current-jug-leaders-and-volunteers)
+  * [Execution](#execution)
+    * [Social Media](#social-media)
+  * [Sponsorship](#sponsorship)
+  * [Partners](#partners-)
+  * [Code of Conduct](#code-of-conduct)
+  * [License](#license)
+<!-- TOC -->
+
 ## Purpose
 The group aims to connect Java developers, enthusiasts, and architects in the Philippines by hosting meetups and online events to discuss the latest trends, technologies, architectures, and best practices in the Java ecosystem. It also connects students and other technical professionals to advocate for and influence the use of Java technologies.
 
@@ -77,6 +94,11 @@ The JUG PH partners with other tech communities or companies that help us to ach
 | Microsoft Philippines          |        |
 | Styava                        | ACTIVE |
 
+## Code of Conduct
+Please read our community code of conduct [here](https://github.com/JUGPH/.github/blob/main/profile/CODE_OF_CONDUCT)
+
+## License
+This repository is under [MIT License](https://github.com/JUGPH/.github/blob/main/profile/LICENSE)
 
 🔗 Link of the meetup presentations: [JUG PH Presentations](https://github.com/JUGPH/java-presentations)
 
