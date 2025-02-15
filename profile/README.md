@@ -102,10 +102,10 @@ The JUG PH partners with other tech communities or companies that help us to ach
 | Styava                        | ACTIVE |
 
 ## Code of Conduct
-Please read our community code of conduct [here](https://github.com/JUGPH/.github/blob/main/profile/CODE_OF_CONDUCT)
+Please read our community code of conduct [here](https://github.com/JUGPH/.github/blob/main/profile/CODE_OF_CONDUCT.md)
 
 ## License
-This repository is under [MIT License](https://github.com/JUGPH/.github/blob/main/profile/LICENSE)
+This repository is under [MIT License](https://github.com/JUGPH/.github/blob/main/profile/LICENSE.md)
 
 <br/><br/>
 🔗 Link of the meetup presentations: [JUG PH Presentations](https://github.com/JUGPH/java-presentations)
