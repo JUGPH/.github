@@ -14,7 +14,8 @@ Repository of JUG PH initiatives
     * [Mission](#mission)
     * [Objectives](#objectives)
   * [JUG PH Community Leaders](#jug-ph-community-leaders)
-    * [Current JUG Leaders and Volunteers](#current-jug-leaders-and-volunteers)
+    * [JUG Leaders](#jug-leaders)
+    * [Volunteers](#volunteers)
   * [Execution](#execution)
     * [Social Media](#social-media)
   * [Sponsorship](#sponsorship)
@@ -44,21 +45,27 @@ At Java User Group PH, our mission is to foster a vibrant and cohesive Java ecos
 ## JUG PH Community Leaders
 To execute the initiative of a Java User Group (JUG), the main contributors are the Java User Group Leaders.
 
-### Current JUG Leaders and Volunteers
+### JUG Leaders
 - Reynaldo John Tristan Mahinay Jr. (JUG Leader)
   - Senior Technical Specialist
   - Open Source Contributor
   - Java Subject Matter Expert
-  - Metro Manila
 - Jansen Marson Ang (JUG Leader)
-  - Java Developer
-  - Metro Manila
+  - Software Engineer
 - Kerby Martino (JUG Leader and Co-Founder)
   - Business Owner/Java Enthusiast
-  - Cavite/South Luzon
+
+### Volunteers
 - Eric Martin
-  - Java Developer
-  - Metro Manila
+- Trisha Joy Moldes
+- Patrick Marcos
+- Jonald Tenio
+- John Michael Domingo
+- Gladwin Del Rosario
+- Andre Villanueva
+- Jamela Andres
+- Jobert Bravo
+- Mark Dave Martin
 
 ## Execution
 JUG PH has several social media channels and preparations to execute its initiatives.
@@ -100,6 +107,7 @@ Please read our community code of conduct [here](https://github.com/JUGPH/.githu
 ## License
 This repository is under [MIT License](https://github.com/JUGPH/.github/blob/main/profile/LICENSE)
 
+<br/><br/>
 🔗 Link of the meetup presentations: [JUG PH Presentations](https://github.com/JUGPH/java-presentations)
 
 ❓ Any questions to the team? Email us at <info@jugph.com> or chat us in our Facebook group
