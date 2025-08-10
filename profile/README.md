@@ -84,7 +84,7 @@ Here's a list of JUG PH’s social accounts:
 The JUG PH meetups were executed together with the help of current sponsors. These sponsorships cover the food, merchandise, and venue. 
 | Organization Name            | Organization Page                                      | Contributions                                     | Start Month and Year | Status |
 |------------------------------|--------------------------------------------------------|---------------------------------------------------|----------------------|--------|
-| Java User Group Philippines  | [JUGPH Official Website](https://jugph.divroll.com/)                            | Tristan Mahinay’s Contribution: Meetup Website, Google Drive Storage<br>Kerby Martino’s Contribution: JUG PH Website, Email Domain | April 2023           | ACTIVE |
+| Java User Group Philippines  | [JUGPH Official Website](https://jugph.com/)                            | Tristan Mahinay’s Contribution: Meetup Website, Google Drive Storage<br>Kerby Martino’s Contribution: JUG PH Website, Email Domain | April 2023           | ACTIVE |
 | Azul Systems                 | [Home](http://azul.com/)                                              | Food and Beverage<br>Merchandises (Stickers and Shirts) | April 2023           | ACTIVE |
 | Orange and Bronze Software Labs | [Homepage](https://www.orangeandbronze.com/)                                        | Venue<br>Logistics for In-person meetup<br>Zoom<br>Training Room<br>Peripherals | April 2023           | ACTIVE |
 | JetBrains                    | [JetBrains: Developer Tools for Professionals and Teams](https://www.jetbrains.com/) | Ultimate Licenses for 1 year                       | April 2023           | ACTIVE |
